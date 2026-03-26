@@ -1,5 +1,5 @@
 # .github
-**WVU Neural Engineering Labs**
+**WVU Neuromechanics & Engineering Labs**
 
 Address:
 WVU School of Medicine
